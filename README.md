@@ -1,2 +1,2 @@
 # Flickr
-Flickr-BleacherReport
+Flickr - Andriod MVVM architecture in Kotlin
